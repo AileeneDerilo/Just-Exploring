@@ -1,0 +1,7 @@
+---
+title: "Traia"
+author: "Aileene C. Derilo"
+date: "2022-11-22"
+output: pdf_document
+---
+
